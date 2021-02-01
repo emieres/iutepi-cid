@@ -1,0 +1,44 @@
+/* CSS Document */
+#contenido {
+	position:absolute;
+	width:500px;
+	left:50%;
+	margin-left:-250px;
+}
+h2{
+	color:#900;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.estilos1{
+	color:#900;
+	text-align:center;
+	font-family:Arial, Helvetica, sans-serif;
+}
+.estilos2{
+	width:550px;
+	color:#000;
+	text-align:left;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+a:link {
+	color: #000;
+	text-decoration: none;
+}
+a:visited {
+	color: #000;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color:#900;
+}
+li{color:#FFF}
+.pre{
+	text-align: center;
+	width: 197px;
+	top: 139px;
+	margin: 0 auto;
+}
+.pie{text-align:center}
